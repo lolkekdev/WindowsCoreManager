@@ -9,3 +9,7 @@
 ###### Disk space: 256Mb
 ###### Sound card: Not necessary but recommended for music and sfx sound
 
+### Information (please read it)
+###### This GitHub repo contaions only free and decrypted version of WCM
+###### You can buy full and code crypted version for 2,99 USD
+##### Contact me to buy full access: sdfrrt863@gmail.com

@@ -10,8 +10,10 @@
 ###### Sound card: Not necessary but recommended for music and sfx sound
 
 ### Information (please read it)
-###### This GitHub repo contaions only free and decrypted version of WCM
-###### You can buy full and code crypted version for 2,99 USD
-###### Also in Free version launcher not included
-###### Buying Premium version you are getting: WCM Premium key, WCM Launcher
-##### Contact me to buy full access: sdfrrt863@gmail.com
+###### This GitHub repo contains only free and open source of WCM (launcher not included)
+###### Made for fun by lolkekdev
+
+### Price list
+###### WCM Premium LifeTime (Launcher included) - 2.99 USD
+###### WCM Premium SRC (Launcher SRC also included) - 5.99 USD
+###### WCM Copyrights and Full Access SRC - 99.99 USD
